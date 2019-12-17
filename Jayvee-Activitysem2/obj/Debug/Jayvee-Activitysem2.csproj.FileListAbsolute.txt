@@ -1,0 +1,15 @@
+C:\Users\COMLABPC7\source\repos\Jayvee-Activitysem2\Jayvee-Activitysem2\bin\Debug\Jayvee-Activitysem2.exe.config
+C:\Users\COMLABPC7\source\repos\Jayvee-Activitysem2\Jayvee-Activitysem2\bin\Debug\Jayvee-Activitysem2.exe
+C:\Users\COMLABPC7\source\repos\Jayvee-Activitysem2\Jayvee-Activitysem2\bin\Debug\Jayvee-Activitysem2.pdb
+C:\Users\COMLABPC7\source\repos\Jayvee-Activitysem2\Jayvee-Activitysem2\obj\Debug\Jayvee-Activitysem2.csprojAssemblyReference.cache
+C:\Users\COMLABPC7\source\repos\Jayvee-Activitysem2\Jayvee-Activitysem2\obj\Debug\MainWindow.g.cs
+C:\Users\COMLABPC7\source\repos\Jayvee-Activitysem2\Jayvee-Activitysem2\obj\Debug\App.g.cs
+C:\Users\COMLABPC7\source\repos\Jayvee-Activitysem2\Jayvee-Activitysem2\obj\Debug\Jayvee-Activitysem2_MarkupCompile.cache
+C:\Users\COMLABPC7\source\repos\Jayvee-Activitysem2\Jayvee-Activitysem2\obj\Debug\Jayvee-Activitysem2_MarkupCompile.lref
+C:\Users\COMLABPC7\source\repos\Jayvee-Activitysem2\Jayvee-Activitysem2\obj\Debug\MainWindow.baml
+C:\Users\COMLABPC7\source\repos\Jayvee-Activitysem2\Jayvee-Activitysem2\obj\Debug\Jayvee-Activitysem2.g.resources
+C:\Users\COMLABPC7\source\repos\Jayvee-Activitysem2\Jayvee-Activitysem2\obj\Debug\Jayvee_Activitysem2.Properties.Resources.resources
+C:\Users\COMLABPC7\source\repos\Jayvee-Activitysem2\Jayvee-Activitysem2\obj\Debug\Jayvee-Activitysem2.csproj.GenerateResource.cache
+C:\Users\COMLABPC7\source\repos\Jayvee-Activitysem2\Jayvee-Activitysem2\obj\Debug\Jayvee-Activitysem2.csproj.CoreCompileInputs.cache
+C:\Users\COMLABPC7\source\repos\Jayvee-Activitysem2\Jayvee-Activitysem2\obj\Debug\Jayvee-Activitysem2.exe
+C:\Users\COMLABPC7\source\repos\Jayvee-Activitysem2\Jayvee-Activitysem2\obj\Debug\Jayvee-Activitysem2.pdb
